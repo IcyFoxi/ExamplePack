@@ -1,0 +1,19 @@
+{
+  "name": "ExamplePack",
+  "publisher": "IcyFoxi",
+  "tray_image": "https://raw.githubusercontent.com/IcyFoxi/ExamplePack/refs/heads/main/Tray.webp",
+  "stickers": [
+    {
+      "image_url": "https://raw.githubusercontent.com/IcyFoxi/ExamplePack/refs/heads/main/Sticker%201.webp"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/IcyFoxi/ExamplePack/refs/heads/main/Sticker%202.webp"
+    },
+    {
+      "image_url": "hhttps://raw.githubusercontent.com/IcyFoxi/ExamplePack/refs/heads/main/Sticker%203.webp"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/IcyFoxi/ExamplePack/refs/heads/main/Sticker%204.webp"
+    }
+  ]
+}
